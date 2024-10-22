@@ -1,4 +1,7 @@
-# Led-control-using-Arduino
+### NAME : NATHER NABEEL S.A.C
+### REG NO : 24900919
+
+# EXPERIMENT 1 - Led control using Arduino
 
 ## AIM
 To design and implement a system for LED control using an Arduino microcontroller and a push button.
@@ -58,7 +61,8 @@ Emergency Signaling System </br>
 Weighing Machines </br>
 
 ## CIRCUIT DIAGRAM
-[push button.pdf](https://github.com/user-attachments/files/17474540/push.button.pdf)
+![Screenshot 2024-10-22 104316](https://github.com/user-attachments/assets/943b7cfa-5e4a-41f5-9e88-54bd18be72a3)
+
 
 ## PROGRAM
 ![Screenshot (5)](https://github.com/user-attachments/assets/f48198f4-60ac-4e54-9b4e-1df775a8c16f)
