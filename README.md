@@ -68,7 +68,30 @@ Weighing Machines </br>
 
 ## PROGRAM
 
-<img src="https://github.com/user-attachments/assets/241882cb-3a34-4749-8508-4b8c26b7abf8" width="600" height="500" />
+```
+void setup() {
+  
+ pinMode(13,OUTPUT);
+ pinMode(4,INPUT);
+}
+
+void loop() {
+ int buttonstatus=digitalRead(4);
+ if (buttonstatus==HIGH)
+ {
+
+  digitalWrite(13,HIGH);
+ }
+ else
+ {
+  digitalWrite(13,LOW);
+ }
+
+}
+
+```
+
+
 
 ## OUTPUT
 
